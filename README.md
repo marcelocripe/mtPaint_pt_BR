@@ -15,13 +15,16 @@ Manual do mtPaint (em idioma inglês)
 
 https://mtpaint.sourceforge.net/handbook/en_GB/chap_00.html
 
+
 - - - - -
+
 
 Traduções revisadas por marcelocripe:
 
 https://github.com/marcelocripe/mtPaint_pt_BR/mtpaint_pt_BR.po
 
 https://github.com/marcelocripe/mtPaint_pt_BR/mtpaint.desktop
+
 
 
 Para utilizar o arquivo "mtpaint_pt_BR.po" e o "mtpaint.desktop", inicie o Emulador de Terminal na pasta onde estão os arquivos que foram baixados.
@@ -39,6 +42,7 @@ $ sudo mv /usr/share/locale/pt_BR/LC_MESSAGES/mtpaint.mo /usr/share/locale/pt_BR
 Comando para copiar o arquivo da tradução com a extensão ".mo" para a pasta do idioma "pt_BR".
 
 $ sudo cp mtpaint.mo /usr/share/locale/pt_BR/LC_MESSAGES
+
 
 
 "mtpaint_pt_BR.desktop":
