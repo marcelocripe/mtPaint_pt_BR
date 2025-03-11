@@ -21,9 +21,9 @@ https://mtpaint.sourceforge.net/handbook/en_GB/chap_00.html
 
 Traduções revisadas por marcelocripe:
 
-https://github.com/marcelocripe/mtPaint_pt_BR/mtpaint_pt_BR.po
+https://github.com/marcelocripe/mtPaint_pt_BR/blob/main/mtpaint_pt_BR.po
 
-https://github.com/marcelocripe/mtPaint_pt_BR/mtpaint.desktop
+https://github.com/marcelocripe/mtPaint_pt_BR/blob/main/mtpaint.desktop
 
 
 
