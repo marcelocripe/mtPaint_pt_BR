@@ -47,7 +47,7 @@ $ sudo cp mtpaint.mo /usr/share/locale/pt_BR/LC_MESSAGES
 
 "mtpaint_pt_BR.desktop":
 
-Comando para copiar o arquivo com a extensão ".desktop" para a pasta /usr/share/applications.
+Comando para copiar o arquivo com a extensão ".desktop" para a pasta "/usr/share/applications".
 
 $ sudo cp mtpaint_pt_BR.desktop /usr/share/applications
 
